@@ -6,7 +6,7 @@ A responsive web app built with HTML, CSS, and JavaScript that lets you search r
 
 ## Live Demo
 
-👉 **[View Live Page]()**  
+👉 **[View Live Page](https://receipe-finder-weld.vercel.app/)**  
 
 ---
 
