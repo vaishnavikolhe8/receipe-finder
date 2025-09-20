@@ -6,24 +6,9 @@ A responsive web app built with HTML, CSS, and JavaScript that lets you search r
 
 ## Live Demo
 
-👉 **[View Live Page](https://recipe-find-er.netlify.app/)**  
+👉 **[View Live Page]()**  
 
 ---
-
-## Screenshots
-
-### Desktop
-![Desktop Screenshot](screenshots/home.png) 
-![Desktop Screenshot](screenshots/landing.png) 
-![Desktop Screenshot](screenshots/inside.png) 
-
-### Mobile
-![Mobile Screenshot](screenshots/m-home.jpg)
-![Mobile Screenshot](screenshots/m-landing.jpg)
-![Mobile Screenshot](screenshots/m-inside.jpg)
-
----
-
 
 ## Features
 
